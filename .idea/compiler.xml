@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Springmvc-4-Controller" />
+        <module name="SpringMVC-2-Hellomvc" />
+        <module name="SpringMVC-1-servlet" />
+        <module name="SpringMVC-2-Hellomvc1" />
+        <module name="Springmvc-3-annotation" />
+        <module name="Spring-2-Hellomvc" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
